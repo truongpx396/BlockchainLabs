@@ -6,16 +6,17 @@
 
 #### 🍰 Cloning version of PancakeSwap
 
+
 - [Link to Repo](https://github.com/truongpx396/pancake-swap-v1-bsc-testnet-main)
 
 ![PancakeSwap](./assets/pancake1.png)
 
 #### 👷‍♂️ Defi Yield Farming
-- [Link to Repo](https://github.com/truongpx396/pancake-swap-v1-bsc-testnet-main)
+- [Link to Repo](https://github.com/truongpx396/defi_mc/tree/master)
 
 ![Farming](./assets/farming1.png)
 
 #### 💱 Dex Exchange
-- [Link to Repo](https://github.com/truongpx396/pancake-swap-v1-bsc-testnet-main)
+- [Link to Repo](https://github.com/truongpx396/mydex)
 
 ![Dex](./assets/dex1.png)
